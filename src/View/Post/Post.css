@@ -1,0 +1,6 @@
+.Post-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}

@@ -1,0 +1,23 @@
+.ReadPost-title{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ReadPost-auther{
+    font-size: 25px;
+    font-style: italic;
+
+}
+.ReadPost-discription{
+    font-size: 20px;
+}
+.ReadPost-container{
+    display: flex;
+    flex-direction: column;
+    border: 4px double #4dff88;
+    padding: 15px;
+}
+.ReadPost-date{
+    font-size: 20px;
+    font-weight: bold;
+}

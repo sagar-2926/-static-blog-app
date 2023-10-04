@@ -1,0 +1,16 @@
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color: #e6ccff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar-heading{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: serif;
+    
+    
+    
+}

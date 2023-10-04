@@ -1,0 +1,29 @@
+[
+    {    
+        "id": 1,
+        "ImageUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588286863i/634583.jpg",
+        "Title": "Wings of Fire ",
+        "Description": "Wings of Fire: An Autobiography by Dr. APJ Abdul Kalam is an inspiring and captivating account of the life of one of India's most distinguished scientists and former Presidents. The book traces Kalam's journey from his early days in the small town of Rameswaram to his rise as a renowned aerospace engineer and eventually the President of India.",
+        "Author": "Dr. APJ Abdul Kalam,",
+        "publishedDate": "1999-01-01"
+    },
+    {
+        "id":2,
+        "ImageUrl":"https://static.wixstatic.com/media/1da352_60e0545c99f94c41b5264e84d8dc6ac6~mv2.jpg/v1/fill/w_452,h_689,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/1da352_60e0545c99f94c41b5264e84d8dc6ac6~mv2.jpg",
+        "Title":"Karma Yoga",
+        "Description":"Selfless Action : Swami Vivekananda emphasizes the idea of performing one's duties without attachment to the results. By engaging in selfless action, individuals can overcome the bondage of desire and achieve spiritual growth. Yoga in Action:The book explores how the practice of yoga can be seamlessly integrated into everyday life. Swami Vivekananda argues that spirituality is not confined to retreats or meditation alone but can be realized through active and ethical engagement in the world. Dharma and Duty: Vivekananda discusses the importance of understanding and fulfilling one's duties and responsibilities (dharma) in various roles—be it as a student, a householder, or a professional. He provides insights into how performing one's duties conscientiously can be a path to spiritual evolution.",
+        "Author":"Swami Vivekananda",
+        "publishedDate":"1900-01-01"
+
+    },
+    {
+        "id":3,
+        "ImageUrl":"https://i0.wp.com/media.hellobookmine.com/wp-content/uploads/2020/07/13114808/Gora.jpg?fit=400%2C600&ssl=1",
+        "Title":"Gora ",
+        "Description":"The central character of the novel is Gora, an orphan raised in a Brahmo household. Gora is known for his strong nationalist beliefs and his fervent opposition to anything that goes against his idea of true Indian culture. The novel follows Gora's journey as he grapples with questions of identity and searches for his roots. The narrative delves into the societal and cultural conflicts of the time, including the clash between traditional and modern values. Gora's encounters with other characters in the novel, including Binoy, a young man from an orthodox Hindu family, and Sucharita, a girl brought up in a conservative Muslim household, further highlight the social and religious tensions prevalent in Bengal during that period. As the story unfolds, Gora undergoes a profound transformation and begins to question his rigid beliefs. The novel serves as a platform for Tagore to explore the complexities of religion, the limitations of dogmatic thinking, and the importance of embracing a more inclusive and tolerant worldview.",
+        "Author":"Rabindranath Tagore",
+        "publishedDate":"1910-01-0"
+
+    }
+    
+]
